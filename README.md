@@ -6,7 +6,7 @@
 ### 2. Membuat sub direktori januari, februari, dan maret sekalius pada direktori latihan5 dengan menggunakan mkdir -p latihan5/{januari, februari, maret}
 ![soal2](https://github.com/user-attachments/assets/5a35022f-750c-43a5-aadb-e30d47f1b820)
 
-### 3. membuat file dataku yang berisi nama, nim, dan alamat pada sub direkori januari dan copy-kan file tersebut ke sub direktori februari dan maret
+### 3. membuat file dataku yang berisi nama, nim, dan alamat pada sub direkori januari dan meng-copy file tersebut ke sub direktori februari dan maret
 ![soal3](https://github.com/user-attachments/assets/0aa224c0-6b24-4f4a-afb5-5efded2decde)
 
 ### 4. mengubah izin akses file dataku pada sub direktori januari sehingga group dan others dapat write
@@ -21,12 +21,12 @@
 ### 7. menghapus direktori maret
 ![soal7](https://github.com/user-attachments/assets/d9a8ae6e-5cb1-4ba5-935d-5579e960cd2e)
 
-### 8. mengubah bahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari.
+### 8. mengubah kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan mencoba untuk membuat direktori baru haha pada sub direktori februari.
 ![soal8](https://github.com/user-attachments/assets/20aa7c42-9570-4600-9cf4-8e676d9bbb37)
 
-### 9. Memodifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya
+### 9. Memodifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan menampilkan nilai default-nya
 ![soal9](https://github.com/user-attachments/assets/37d8afc3-0a97-42e1-867a-901581939d4f)
 
-### 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi
+### 10. membuat link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi
 ![soal10](https://github.com/user-attachments/assets/b4748ecd-78d6-4022-a632-dc7bd8f38fb6)
 
