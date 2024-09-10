@@ -30,3 +30,18 @@
 ### 10. membuat link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi
 ![soal10](https://github.com/user-attachments/assets/b4748ecd-78d6-4022-a632-dc7bd8f38fb6)
 
+![isi dataku ini](https://github.com/user-attachments/assets/d9500cd6-06e4-4e64-8f2d-1f44f972f9f2)
+### isi file dataku ini
+
+![isi dataku](https://github.com/user-attachments/assets/f8188875-6f25-4b76-84b8-de064423902d)
+### isi file dataku
+
+![isi datakujuga](https://github.com/user-attachments/assets/c1f8ed61-5441-4476-8c00-02849623b7be)
+### isi dataku juga
+
+![isi februari](https://github.com/user-attachments/assets/654414d4-09a3-429c-b7e4-2c4f2b54805a)
+### isi file februari
+
+![isi file januari](https://github.com/user-attachments/assets/dd6b90b9-85dd-42bf-b015-d67ba08542b5)
+### isi file januari
+
